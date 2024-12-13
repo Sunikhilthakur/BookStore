@@ -15,7 +15,7 @@ const ChangePassword = () => {
     try {
       const id = localStorage.getItem("id");
       const response = await axios.post(
-        "http://localhost:4001/user/change-password",
+        "https://bookstore-i9c5.onrender.com/user/change-password",
         { oldPassword, newPassword, id }
       );
 

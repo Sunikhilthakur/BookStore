@@ -32,7 +32,7 @@ function ContactUs() {
 
     try {
       // Send form data to the backend endpoint
-      await axios.post("http://localhost:4001/user/send-email", formData);
+      await axios.post("https://bookstore-i9c5.onrender.com/user/send-email", formData);
       setSuccess("Message sent successfully!");
       setFormData({ name: "", email: "", message: "" }); // Clear form after success
     } catch (err) {

@@ -11,7 +11,7 @@ function VerifyEmail() {
   useEffect(() => {
     const verifyEmail = async () => {
       try {
-        await axios.get(`http://localhost:4001/user/verify-email/${token}`);
+        await axios.get(`https://bookstore-i9c5.onrender.com/user/verify-email/${token}`);
         toast.success('Email verified successfully. Please login.');
         navigate('/');
       } catch (error) {

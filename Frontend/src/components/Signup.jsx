@@ -22,7 +22,7 @@ function Signup() {
     };
     
     try {
-      const res = await axios.post("http://localhost:4001/user/signup", userInfo);
+      const res = await axios.post("https://bookstore-i9c5.onrender.com/user/signup", userInfo);
       console.log(res.data);
       if (res.data.requiresVerification) {
         toast.success("Please check your email to verify your account");
