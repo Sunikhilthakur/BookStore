@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "name": "The Great Gatsby",
+        "title": "The Great Gatsby",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    },
+    {
+        "id": 2,
+        "name": "To Kill a Mockingbird",
+        "title": "To Kill a Mockingbird",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    },
+    {
+        "id": 3,
+        "name": "1984",
+        "title": "1984",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    },
+    {
+        "id": 4,
+        "name": "Pride and Prejudice",
+        "title": "Pride and Prejudice",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    },
+    {
+        "id": 5,
+        "name": "The Catcher in the Rye",
+        "title": "The Catcher in the Rye",
+        "price": 0,
+        "category": "Fiction",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    },
+    {
+        "id": 6,
+        "name": "The Hobbit",
+        "title": "The Hobbit",
+        "price": 0,
+        "category": "Fantasy",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    },
+    {
+        "id": 7,
+        "name": "Fahrenheit 451",
+        "title": "Fahrenheit 451",
+        "price": 0,
+        "category": "Dystopian",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    },
+    {
+        "id": 8,
+        "name": "Brave New World",
+        "title": "Brave New World",
+        "price": 0,
+        "category": "Dystopian",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    },
+    {
+        "id": 9,
+        "name": "Moby Dick",
+        "title": "Moby Dick",
+        "price": 0,
+        "category": "Classic",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    },
+    {
+        "id": 10,
+        "name": "War and Peace",
+        "title": "War and Peace",
+        "price": 0,
+        "category": "Historical Fiction",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    },
+    {
+        "id": 11,
+        "name": "The Alchemist",
+        "title": "The Alchemist",
+        "price": "$12.99",
+        "category": "Adventure",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    },
+    {
+        "id": 12,
+        "name": "The Road",
+        "title": "The Road",
+        "price": "$14.99",
+        "category": "Post-apocalyptic",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    },
+    {
+        "id": 13,
+        "name": "The Picture of Dorian Gray",
+        "title": "The Picture of Dorian Gray",
+        "price": "$9.99",
+        "category": "Classic",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    },
+    {
+        "id": 14,
+        "name": "The Divine Comedy",
+        "title": "The Divine Comedy",
+        "price": "$15.99",
+        "category": "Epic Poetry",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    },
+    {
+        "id": 15,
+        "name": "Crime and Punishment",
+        "title": "Crime and Punishment",
+        "price": "$10.49",
+        "category": "Psychological Fiction",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    },
+    {
+        "id": 16,
+        "name": "The Odyssey",
+        "title": "The Odyssey",
+        "price": "$13.49",
+        "category": "Epic",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    },
+    {
+        "id": 17,
+        "name": "The Catcher in the Rye",
+        "title": "The Catcher in the Rye",
+        "price": "$17.99",
+        "category": "Fiction",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    },
+    {
+        "id": 18,
+        "name": "Frankenstein",
+        "title": "Frankenstein",
+        "price": "$8.99",
+        "category": "Gothic Fiction",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    },
+    {
+        "id": 19,
+        "name": "Dracula",
+        "title": "Dracula",
+        "price": "$7.99",
+        "category": "Horror",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    },
+    {
+        "id": 20,
+        "name": "The Brothers Karamazov",
+        "title": "The Brothers Karamazov",
+        "price": "$16.99",
+        "category": "Philosophical Fiction",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    }
+]
